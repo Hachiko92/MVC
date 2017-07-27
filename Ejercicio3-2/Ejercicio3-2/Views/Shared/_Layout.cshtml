@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Style/Style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <h1>Alumnos</h1>
+    <div>
+        @RenderBody()
+    </div>
+    <h3>Metodos disponibles:</h3>
+    <ul>
+        <li><a href="">/Home/GetAlumnos</a></li>
+        <li>/Home/GetAlumnosTrabajadores</li>
+        <li>/Home/GetMayor</li>
+        <li>/Home/GetSuspensosTrabajadores</li>
+        <li>/Home/SuperiorInferiorMedia</li>
+    </ul>
+</body>
+</html>

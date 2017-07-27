@@ -1,0 +1,31 @@
+﻿@using Ejercicio3_1.Models
+@model  Persona[]
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ResultArray</title>
+</head>
+<body>
+    <div> 
+        <h2 style="margin: 0">Persona(s)</h2>
+        @foreach (var p in Model)
+        {
+            <p>
+                ID: @p.IDpersona
+                <br />
+                Nombre: @p.Nombre
+                <br />
+                Edad: @p.Edad
+                <br />
+                Profesion: @p.Profesion
+                <br />
+                Sueldo: @p.Sueldo
+            </p>
+        }
+        
+    </div>
+</body>
+</html>

@@ -1,0 +1,38 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>View</title>
+</head>
+<body>
+    <div> 
+        <div>El Controlador es: @ViewBag.Controller</div>
+        <div>El metodo de accion es: @ViewBag.Action</div>
+        <div>La variable es: @ViewBag.CustomerVariable</div>
+        <div>
+            <!-- en esta forma se queda en el mismo Controller -->
+            @Html.ActionLink("Pincha aqui para ir al metodo index", "Index");
+            <br />
+            @Html.ActionLink("Pincha aqui para ir a Admin/Index", "Index", "Admin");
+            <br />
+            <!-- el ultimo es es atributo HTML -->
+            @Html.ActionLink("Pincha aqui para ir a Admin/Index/Hello", "Alter", "Admin", new { id = "Hello" }, null );
+            <br />
+            <!-- para poner la clase -->
+            @Html.ActionLink("Pincha aqui para ir a Admin/Index/Hello con clase", "Alter", "Admin", new { id = "Hello", @class = "letraNegrita" }, null);
+            <br />
+            <!-- los atributos css necesitan la arroba y lo de JavaScript no -->
+            @Html.ActionLink("Pincha aqui para ir a la home con myLink", "Index", "Home", new { id = "OtraVariable" }, new { id = "myLink1", @class = "MyLinkClass" });
+            <br />
+            Url.Action: 
+            @Url.Action("Index", "Home", new { id = "MyId" });
+        </div>
+    </div>
+</body>
+</html>

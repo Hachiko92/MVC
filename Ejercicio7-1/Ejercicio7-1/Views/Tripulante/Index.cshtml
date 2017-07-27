@@ -1,0 +1,35 @@
+﻿@using Ejercicio7_1.Models
+@model List<Tripulante>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Tripulantes</title>
+</head>
+<body>
+    <div>
+        <h2>Tripulación de los barcos</h2>
+        @Html.ActionLink("Home", "Index", "Home")
+        <br />
+        <table style="border: 1px solid">
+            <thead style="border-bottom: 1px solid">
+                <tr>
+                    <th>Marinero</th>
+                    <th>Cargo</th>
+                    <th>Fecha de Titulación</th>
+                </tr>
+                @foreach(Tripulante t in Model)
+                {
+                    <tr>
+                        <td>@t.NombreTripulante</td>
+                        <td>@t.Cargo</td>
+                        <td>@t.FechaTituloNavegacion.ToShortDateString()</td>
+                    </tr>
+                }
+            </thead>
+        </table>
+    </div>
+</body>
+</html>

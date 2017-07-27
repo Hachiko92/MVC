@@ -1,0 +1,61 @@
+﻿@using Ejercicio8_2.Models
+@model List<Fotografo>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        <h2>Eventos</h2>
+        @Html.ActionLink("Felicitar", "Felicita")
+        <br />
+        <table style="border: 1px solid">
+            @foreach (Fotografo f in Model)
+            {
+                decimal sumatorio = 0;
+                <thead style="border-bottom: 1px solid">
+                    <tr>
+                        <td align="center">@f.NombreApell</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <table>
+                                @if(f.eventos != null)
+                                {
+                                    foreach(var e in f.eventos)
+                                    {
+                                        <tr>
+                                            sumatorio += e.Importe;
+                                            <td>@e.Descripcion</td>
+                                            <td>@e.Fecha.ToShortDateString()</td>
+                                            <td>@e.Importe</td>
+                                        </tr>
+                                    }
+                                    <tr>
+                                        <td>Total: @sumatorio €</td>
+                                    </tr>
+                                }
+                                else
+                                {
+
+                                }
+                            </table>
+                        </td>
+                    </tr>
+                </tbody>
+            }
+            
+        </table>
+    </div>
+</body>
+</html>

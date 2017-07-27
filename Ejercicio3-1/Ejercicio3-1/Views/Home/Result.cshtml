@@ -1,0 +1,42 @@
+﻿@using Ejercicio3_1.Models
+@model  Persona
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Result</title>
+</head>
+<body>
+    <div> 
+        <h2 style="margin: 0">Persona</h2>
+        <p>
+            ID: @Model.IDpersona
+            <br />
+            Nombre: @Model.Nombre
+            <br />
+            Edad: @Model.Edad
+            <br />
+            Profesion: @Model.Profesion
+            <br />
+            @if(ViewBag.Hijo != null && ViewBag.Porgentaje != null)
+            {
+                if (!ViewBag.Hijo)
+                {
+                    <span>Sueldo: @Model.Sueldo</span>
+                    <span>Hijo: NO</span>
+                }
+                else
+                {
+                    <span>Sueldo: @ViewBag.Sueldo</span>
+                    <br />
+                    <span>Hijo: SI</span>
+                    <br />
+                    <span>Porgentaje: @ViewBag.Porgentaje %</span>
+                }
+            }
+        </p>
+    </div>
+</body>
+</html>

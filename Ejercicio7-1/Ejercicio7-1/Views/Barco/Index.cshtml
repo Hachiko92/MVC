@@ -1,0 +1,36 @@
+﻿@using Ejercicio7_1.Models
+@model List<Barco>
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <h2>Listado de Barcos</h2>
+        @Html.ActionLink("Home", "Index", "Home")
+        <table style="border: 1px solid">
+            <thead style="border-bottom: 1px solid">
+                <tr>
+                    <th>Barco</th>
+                    <th>Año</th>
+                    <th>Coste</th>
+                    <th>Ultima Reparación</th>
+                </tr>
+                @foreach (Barco b in Model)
+                {
+                    <tr>
+                        <td>@b.NombreBarco</td>
+                        <td>@b.AñoConstruccion</td>
+                        <td>@b.CosteConstruccion</td>
+                        <td>@b.FechaUltimaReparacion.ToShortDateString()</td>
+                        <td>@Html.ActionLink("Ver Tripulación", "TripulanteBarco", "Tripulante", new { id = b.BarcoId, nombre = b.NombreBarco }, null)</td>
+                    </tr>
+                }
+            </thead>
+        </table>
+    </div>
+</body>
+</html>

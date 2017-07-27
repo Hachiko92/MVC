@@ -1,0 +1,67 @@
+﻿@using Ejercicio3_2.Models
+@model Alumno[]
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Result</title>
+</head>
+<body>
+    <div> 
+        <h2>@ViewBag.Titulo</h2>
+        
+            <table>
+                <thead>
+                    <tr>
+                        @if (ViewBag.TipoMetodo != 1)
+                        {
+                            <th>ID</th>
+                        }
+                        <th>Alumno</th>
+                        <th>Edad</th>
+                        @if (ViewBag.TipoMetodo != 1)
+                        {
+                            <th>Trabajador</th>
+                            <th>Nota</th>
+                            if(ViewBag.TipoMetodo == 2)
+                            {
+                                <th></th>
+                            }
+                        }
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var a in Model)
+                {
+                        <tr>
+                            @if (ViewBag.TipoMetodo != 1)
+                            {
+                                <td>@a.AlumnoID</td>
+                            }
+                            <td>@a.Nombre</td>
+                            <td>@a.Edad</td>
+                            @if (ViewBag.TipoMetodo != 1)
+                            {
+                                <td><input type="checkbox" checked="@a.Trabaja" /></td>
+                                <td>@a.Nota</td>
+                                if (ViewBag.TipoMetodo == 2)
+                                {
+                                    if (a.Nota >= ViewBag.Media)
+                                    {
+                                        <td><p>Por encima de la media</p></td>
+                                    }
+                                    else
+                                    {
+                                        <td><p>Por debajo de la media</p></td>
+                                    }
+                                }
+                            }
+                        </tr>
+                    }
+                </tbody>
+            </table>
+    </div>
+</body>
+</html>

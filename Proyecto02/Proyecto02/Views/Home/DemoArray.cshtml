@@ -1,0 +1,40 @@
+﻿@using Proyecto02.Models
+
+@model Product[]
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>DemoArray</title>
+</head>
+<body>
+    <div>
+        @if (Model == null)
+        {
+            <table border="1">
+                <thead>
+                    <tr>
+                        <th>Product</th>
+                        <th>Price</th>
+                    </tr>
+                </thead>
+                <tbody>
+                   @foreach (var p in Model)
+                    {
+                        <tr>
+                            <td>@p.Nombre</td>
+                            <td>@p.Precio</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <h2>No Product Data</h2>
+        }
+    </div>
+</body>
+</html>

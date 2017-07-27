@@ -1,0 +1,233 @@
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\WorkingWithRazor.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\WorkingWithRazor.pdb
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\Antlr3.Runtime.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\EntityFramework.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\Newtonsoft.Json.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Net.Http.Formatting.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Http.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Http.WebHost.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Mvc.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Optimization.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Providers.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Razor.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.Razor.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\WebGrease.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\EntityFramework.xml
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\Newtonsoft.Json.xml
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Net.Http.Formatting.xml
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Http.xml
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Http.WebHost.xml
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Mvc.xml
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Razor.xml
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.xml
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.Razor.xml
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\EntityFramework.resources.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Http.resources.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Mvc.resources.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Optimization.resources.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Providers.resources.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Razor.resources.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.WebPages.resources.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.csprojResolveAssemblyReference.cache
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.pdb
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\WorkingWithRazor.dll.config
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\WorkingWithRazor.dll
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\WorkingWithRazor.pdb
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\Antlr3.Runtime.dll
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\EntityFramework.dll
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\Microsoft.Web.Infrastructure.dll
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\Newtonsoft.Json.dll
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Mvc.dll
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Optimization.dll
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Providers.dll
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Razor.dll
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.Deployment.dll
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.dll
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.Razor.dll
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\WebGrease.dll
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\EntityFramework.xml
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\Newtonsoft.Json.xml
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Mvc.xml
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Razor.xml
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.xml
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.Deployment.xml
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.Razor.xml
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\EntityFramework.resources.dll
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Mvc.resources.dll
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Optimization.resources.dll
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Providers.resources.dll
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Razor.resources.dll
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.WebPages.resources.dll
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.WebPages.Deployment.resources.dll
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.WebPages.Razor.resources.dll
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.csprojResolveAssemblyReference.cache
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.dll
+I:\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.pdb
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\WorkingWithRazor.dll.config
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\WorkingWithRazor.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\WorkingWithRazor.pdb
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\Antlr3.Runtime.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\EntityFramework.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\Newtonsoft.Json.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Net.Http.Formatting.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Http.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Http.WebHost.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Mvc.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Optimization.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Providers.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Razor.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.Razor.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\WebGrease.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\EntityFramework.xml
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\Newtonsoft.Json.xml
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Net.Http.Formatting.xml
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Http.xml
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Http.WebHost.xml
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Mvc.xml
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Razor.xml
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.xml
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.Razor.xml
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\EntityFramework.resources.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Http.resources.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Providers.resources.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Razor.resources.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.dll
+C:\Users\Javier\Desktop\cursos\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.pdb
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\WorkingWithRazor.dll.config
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\WorkingWithRazor.dll
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\WorkingWithRazor.pdb
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\Antlr3.Runtime.dll
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\EntityFramework.dll
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\Microsoft.Web.Infrastructure.dll
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\Newtonsoft.Json.dll
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Mvc.dll
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Optimization.dll
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Providers.dll
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Razor.dll
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.Deployment.dll
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.dll
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.Razor.dll
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\WebGrease.dll
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\EntityFramework.xml
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\Newtonsoft.Json.xml
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Mvc.xml
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Razor.xml
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.xml
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.Deployment.xml
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.Razor.xml
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\EntityFramework.resources.dll
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Mvc.resources.dll
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Optimization.resources.dll
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Providers.resources.dll
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Razor.resources.dll
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.WebPages.resources.dll
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.csprojResolveAssemblyReference.cache
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.dll
+E:\MVC\EJEMPLOS\TEMA10(VIEWS)\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.pdb
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\WorkingWithRazor.dll.config
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\WorkingWithRazor.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\WorkingWithRazor.pdb
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\Antlr3.Runtime.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\EntityFramework.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\Newtonsoft.Json.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\System.Net.Http.Formatting.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Http.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Http.WebHost.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Mvc.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Optimization.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Providers.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Razor.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.Razor.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\WebGrease.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\EntityFramework.xml
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\Newtonsoft.Json.xml
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\System.Net.Http.Formatting.xml
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Http.xml
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Http.WebHost.xml
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Mvc.xml
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Razor.xml
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.xml
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.Razor.xml
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\es\EntityFramework.resources.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Http.resources.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Providers.resources.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Razor.resources.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.csprojResolveAssemblyReference.cache
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.dll
+C:\Users\Profesor Web 2017\Desktop\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.pdb
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\WorkingWithRazor.dll.config
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\WorkingWithRazor.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\WorkingWithRazor.pdb
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\Antlr3.Runtime.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\EntityFramework.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\Newtonsoft.Json.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Net.Http.Formatting.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Http.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Http.WebHost.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Mvc.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Optimization.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Providers.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Razor.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.Razor.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\WebGrease.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\EntityFramework.xml
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\Newtonsoft.Json.xml
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Net.Http.Formatting.xml
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Http.xml
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Http.WebHost.xml
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Mvc.xml
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.Razor.xml
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.xml
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\System.Web.WebPages.Razor.xml
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\es\EntityFramework.resources.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Http.resources.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Providers.resources.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.Razor.resources.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.csprojResolveAssemblyReference.cache
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.pdb

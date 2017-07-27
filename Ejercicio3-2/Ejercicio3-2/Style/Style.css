@@ -1,0 +1,13 @@
+﻿body {
+    color: #333;
+    margin: 0 auto;
+    width: 80%;
+}
+
+table{
+    border: 1px solid;
+}
+
+thead{
+    border-bottom: 1px solid;
+}
