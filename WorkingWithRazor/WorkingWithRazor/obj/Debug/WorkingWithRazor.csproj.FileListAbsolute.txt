@@ -231,3 +231,4 @@ C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\es
 C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.csprojResolveAssemblyReference.cache
 C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.dll
 C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\obj\Debug\WorkingWithRazor.pdb
+C:\Users\Web2017\Documents\CursoWeb\MVC\WorkingWithRazor\WorkingWithRazor\bin\GridMvc.dll

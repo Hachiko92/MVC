@@ -1,0 +1,25 @@
+﻿@using GridMvc.Html
+@using Ejercicio7_1.Models
+@model List<Barco>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Tabla</title>
+</head>
+<body>
+    <div> 
+       @Html.Grid(Model).Columns(columns =>
+       {
+           columns.Add(b => b.NombreBarco).Titled("Barco").SetWidth(110);
+           columns.Add(b => b.AñoConstruccion).Titled("Año Construccion").Sortable(true);
+       }).WithPaging(20)
+    </div>
+</body>
+</html>
