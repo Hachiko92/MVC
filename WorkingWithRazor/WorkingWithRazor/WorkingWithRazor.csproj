@@ -215,6 +215,11 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\View1.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Shared\MyPartial.cshtml" />
+    <Content Include="Views\Home\List.cshtml" />
+    <Content Include="Views\Shared\MyPartialStrong.cshtml" />
+    <Content Include="Views\Home\Edit.cshtml" />
+    <Content Include="Views\Home\Time.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

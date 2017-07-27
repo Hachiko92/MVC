@@ -1,0 +1,21 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+</head>
+<body>
+    <div>
+        <h3>Llamada a la vista tipada</h3>        
+        @Html.Partial("MyPartialStrong", new[] { "Apple", "Orange", "Pear" })
+
+        <!-- Si está en el mismo controllador, si no se puede poner un otro controlador en el segundo argomento -->
+        @Html.Action("Time")
+    </div>
+</body>
+</html>

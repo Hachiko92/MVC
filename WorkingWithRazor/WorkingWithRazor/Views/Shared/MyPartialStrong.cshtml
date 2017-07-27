@@ -1,0 +1,12 @@
+﻿<!-- Vista Parcial fortemente tipada -->
+@model IEnumerable<string>
+
+<div>
+    Este es un mensaje desde la partial
+    <ul>
+        @foreach(string str in Model)
+        {
+            <li>@str</li>
+        }
+    </ul>
+</div>

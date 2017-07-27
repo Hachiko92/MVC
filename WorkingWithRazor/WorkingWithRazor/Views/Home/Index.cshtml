@@ -5,9 +5,26 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-This is a list of fruit names:
+@section Header{
+    <div class="view">
+        @foreach(string str in new[] { "Home", "List", "Edit" })
+        {
+            @Html.ActionLink(str, str, null, new { style = "margin: 5px" });
+        }
+    </div>    
+}
+@section Body{
+    <div>
+        This is a list of fruit names:
 
-@foreach(string name in Model)
-{
-    <span><b>@name</b></span>
+        @foreach (string name in Model)
+        {
+            <span><b>@name</b></span>
+        }
+    </div>
+}
+@section Footer{
+    <div class="view">
+        Otro para el footer
+    </div>
 }

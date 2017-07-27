@@ -8,6 +8,16 @@
     @Scripts.Render("~/bundles/modernizr")
 </head>
 <body>
-   @RenderBody()
+    @RenderSection("Header")
+    <div>
+        This is the part of the layout
+    </div>
+    @RenderSection("Body")
+    <!-- si no es estada definida esta vista en la pagina, no se muestra -->
+    @RenderSection("Scripts", false)
+    <div>
+        This is the footer
+        @RenderSection("Footer")
+    </div>
 </body>
 </html>
