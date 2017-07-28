@@ -1,0 +1,31 @@
+﻿@using GridMvc.Html
+@using PracticaBarcos.Models
+@model List<Tripulante>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>GetTripultantes</title>
+</head>
+<body>
+    <div> 
+        @if (ViewBag.Success)
+        {
+            @Html.Grid(Model).Columns(columns =>
+            {
+                columns.Add(t => t.NombreTripulante).Titled("Tripultante");
+                columns.Add(t => t.Cargo).Titled("Cargo");
+                columns.Add(t => t.FechaTituloNavegacion).Format("{0:dd/MM/yyyy}").Titled("Fecha Titulación");
+            }).WithPaging(20)
+        }
+        else
+        {
+            <p>@ViewBag.Mensaje</p>
+        }
+    </div>
+    <br />
+    @Html.ActionLink("Volver atrás", "Index")
+</body>
+</html>

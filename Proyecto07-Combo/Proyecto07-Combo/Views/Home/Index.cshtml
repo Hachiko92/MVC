@@ -1,0 +1,49 @@
+﻿
+@{
+    Layout = null;
+}
+
+@{ 
+    List<SelectListItem> listItems = new List<SelectListItem>();
+    listItems.Add(new SelectListItem
+    {
+        /* en un SelectListItem Text y Value son String */
+        Text = "Uno",
+        Value = "1"
+    });
+    listItems.Add(new SelectListItem
+    {
+        Text = "Dos",
+        Value = "2"
+    });
+    listItems.Add(new SelectListItem
+    {
+        Text = "Tres",
+        Value = "3"
+    });
+    listItems.Add(new SelectListItem
+    {
+        Text = "Cuatro",
+        Value = "4"
+    });
+    listItems.Add(new SelectListItem
+    {
+        Text = "Cinco",
+        Value = "5"
+    });
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        <label>Lista de elementos:</label>
+        @Html.DropDownList("MyList", new SelectList(listItems, "Value", "Text"))
+    </div>
+</body>
+</html>

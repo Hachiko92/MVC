@@ -1,0 +1,55 @@
+﻿@using HelperMethods.Infrastructure
+@model string
+
+@{
+    Layout = null;
+}
+@helper ListArrayItem(string[] items) { 
+    foreach(string str in (items))
+    {
+        <b>@str</b>
+    }
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <!-- con infrastructuras -->
+        Frutas: @Html.ListArrayItems((string[])ViewBag.Fruits)
+    </div>
+    <div>
+        Ciudades: @Html.ListArrayItems((string[])ViewBag.Cities)
+    </div>
+    <div>
+        Mensaje:
+        <p>@Model</p>
+    </div>
+</body>
+</html>
+
+@*<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        frutas:@ListArrayItem(ViewBag.Fruits)
+    </div>
+    <div>
+        ciudades:@ListArrayItem(ViewBag.Cities)
+    </div>
+    <div>
+        Mensaje:
+        <p>@Model</p>
+    </div>
+</body>
+</html>*@

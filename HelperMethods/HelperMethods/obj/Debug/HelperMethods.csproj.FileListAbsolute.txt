@@ -1,0 +1,199 @@
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\HelperMethods.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\HelperMethods.pdb
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\Antlr3.Runtime.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\EntityFramework.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\Newtonsoft.Json.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Net.Http.Formatting.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Http.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Http.WebHost.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Mvc.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Optimization.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Providers.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Razor.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.WebPages.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.WebPages.Razor.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\WebGrease.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\EntityFramework.xml
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\Newtonsoft.Json.xml
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Net.Http.Formatting.xml
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Http.xml
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Http.WebHost.xml
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Mvc.xml
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Razor.xml
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.WebPages.xml
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.WebPages.Razor.xml
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\EntityFramework.resources.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Web.Http.resources.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Web.Mvc.resources.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Web.Optimization.resources.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Web.Providers.resources.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Web.Razor.resources.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Web.WebPages.resources.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\obj\Debug\HelperMethods.dll
+C:\Users\DiegoyRosaura\Desktop\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\obj\Debug\HelperMethods.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\HelperMethods.dll.config
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\HelperMethods.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\HelperMethods.pdb
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\Antlr3.Runtime.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\EntityFramework.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\Microsoft.Web.Infrastructure.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\Newtonsoft.Json.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Net.Http.Formatting.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Http.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Http.WebHost.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Mvc.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Optimization.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Providers.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Razor.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.WebPages.Deployment.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.WebPages.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.WebPages.Razor.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\WebGrease.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\EntityFramework.xml
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\Newtonsoft.Json.xml
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Net.Http.Formatting.xml
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Http.xml
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Http.WebHost.xml
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Mvc.xml
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Razor.xml
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.WebPages.xml
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.WebPages.Deployment.xml
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.WebPages.Razor.xml
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\EntityFramework.resources.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Net.Http.Formatting.resources.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Web.Http.resources.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Web.Http.WebHost.resources.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Web.Mvc.resources.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Web.Optimization.resources.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Web.Providers.resources.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Web.Razor.resources.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Web.WebPages.resources.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Web.WebPages.Razor.resources.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\HelperMethods.dll.config
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\HelperMethods.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\HelperMethods.pdb
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\Antlr3.Runtime.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\EntityFramework.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\Microsoft.Web.Infrastructure.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\Newtonsoft.Json.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Mvc.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Optimization.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Providers.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Razor.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.WebPages.Deployment.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.WebPages.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.WebPages.Razor.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\WebGrease.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\EntityFramework.xml
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\Newtonsoft.Json.xml
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Mvc.xml
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.Razor.xml
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.WebPages.xml
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.WebPages.Deployment.xml
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\System.Web.WebPages.Razor.xml
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\EntityFramework.resources.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Web.Mvc.resources.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Web.Optimization.resources.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Web.Providers.resources.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Web.Razor.resources.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Web.WebPages.resources.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Web.WebPages.Deployment.resources.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\bin\es\System.Web.WebPages.Razor.resources.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\obj\Debug\HelperMethods.dll
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
+I:\CURSOS_COMPLETO\cursos\Curso MVC\EJEMPLOS\TEMA11(HELPER METHODS)\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\HelperMethods.dll.config
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\HelperMethods.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\HelperMethods.pdb
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\Antlr3.Runtime.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\EntityFramework.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\Newtonsoft.Json.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\System.Net.Http.Formatting.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\System.Web.Http.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\System.Web.Http.WebHost.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\System.Web.Mvc.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\System.Web.Optimization.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\System.Web.Providers.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\System.Web.Razor.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\System.Web.WebPages.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\System.Web.WebPages.Razor.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\WebGrease.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\EntityFramework.xml
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\Newtonsoft.Json.xml
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\System.Net.Http.Formatting.xml
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\System.Web.Http.xml
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\System.Web.Http.WebHost.xml
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\System.Web.Mvc.xml
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\System.Web.Razor.xml
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\System.Web.WebPages.xml
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\System.Web.WebPages.Razor.xml
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\es\EntityFramework.resources.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\es\System.Web.Http.resources.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\es\System.Web.Providers.resources.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\es\System.Web.Razor.resources.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\obj\Debug\HelperMethods.dll
+C:\Users\Profesor Web 2017\Desktop\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\HelperMethods.dll.config
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\HelperMethods.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\HelperMethods.pdb
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\Antlr3.Runtime.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\EntityFramework.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\Newtonsoft.Json.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\System.Net.Http.Formatting.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\System.Web.Http.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\System.Web.Http.WebHost.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\System.Web.Mvc.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\System.Web.Optimization.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\System.Web.Providers.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\System.Web.Razor.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\System.Web.WebPages.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\System.Web.WebPages.Razor.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\WebGrease.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\EntityFramework.xml
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\Newtonsoft.Json.xml
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\System.Net.Http.Formatting.xml
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\System.Web.Http.xml
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\System.Web.Http.WebHost.xml
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\System.Web.Mvc.xml
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\System.Web.Razor.xml
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\System.Web.WebPages.xml
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\System.Web.WebPages.Razor.xml
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\es\EntityFramework.resources.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\es\System.Web.Http.resources.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\es\System.Web.Providers.resources.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\es\System.Web.Razor.resources.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\obj\Debug\HelperMethods.dll
+C:\Users\Web2017\Documents\CursoWeb\MVC\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb

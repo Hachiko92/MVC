@@ -1,0 +1,32 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        Paises: 
+        @*@using (Html.BeginForm())
+        {
+            /* Cuando trabajas con Helper hay que poner @ SIEMPRE */
+            /* @Html.DropDownList(nombre de la variable donde va a volcar, de donde tiene que cargar los 
+             * datos) -> ya solo con esto está cargado el dropDownList */
+            @Html.DropDownList("Pais", ViewData["Paises"] as List<SelectListItem>)
+            <input type="submit" value="Aceptar" />
+        }*@
+
+        @using (Html.BeginForm())
+        {
+            @Html.DropDownList("Pais", ViewData["Paises"] as List<SelectListItem>,
+                new { OnChange = "this.form.submit()" });
+        }
+    </div>
+</body>
+</html>

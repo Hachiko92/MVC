@@ -1,0 +1,20 @@
+﻿@using PracticaBarcos.Models
+@model VMBarco
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        @using (Html.BeginForm())
+        {
+            @Html.DropDownListFor(b => b.BarcoSeleccionado, new SelectList(Model.Barcos, "BarcoId", "NombreBarco"))
+            <input type="submit" value="Seleccionar" />
+        }
+    </div>
+</body>
+</html>

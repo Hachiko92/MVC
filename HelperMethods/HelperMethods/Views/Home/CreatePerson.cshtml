@@ -1,0 +1,39 @@
+﻿@using HelperMethods.Models
+@model Person
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>CreatePerson</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm("CreatePerson", "Home", "Post"))
+        { 
+            <div>
+                <label>PersonaID: </label>
+                <input name="PersonaID" value="@Model.PersonId" type="text" />
+            </div>
+            <br />
+            <div>
+                <label>FirstName: </label>
+                <input name="FirstName" value="@Model.FirstName" type="text" />
+            </div>
+            <br />
+            <div>
+                @Html.TextBoxFor(p => p.BirthDate);
+            </div>
+            @*<div>
+                @Html.DropDownList("myList", new SelectListItem(), "-Seleccione un valor-")
+                @Html.DropDownListFor(x=>x.Apellido, new SelectListItem(), "Elije una opcion" )
+            </div>*@
+            <button type="submit">Submit</button>
+        }
+    </div>
+</body>
+</html>

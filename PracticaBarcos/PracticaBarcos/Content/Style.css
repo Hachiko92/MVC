@@ -1,0 +1,19 @@
+﻿body {
+    color: #333;
+}
+
+.wrap{
+    width: 80%;
+    margin: 0 auto;
+}
+
+a{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+a:hover{
+    color: #333;
+}
+

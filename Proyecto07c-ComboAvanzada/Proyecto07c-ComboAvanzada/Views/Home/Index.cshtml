@@ -1,0 +1,38 @@
+﻿@using Proyecto07c_ComboAvanzada.Models
+@model VMComboCities
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    @*<div> 
+        @using (Html.BeginForm())
+        {
+            @Html.DropDownList("Cities")
+            <input type="submit" value="Aceptar" />
+        }
+    </div>*@
+        @*<div>
+                @using (Html.BeginForm())
+                {
+                    /* "SelectedCity" es lo que tiene que manejar la CaraB en el controllador */
+                    @Html.DropDownList("SelectedCity", ViewBag.Cities as IEnumerable<SelectListItem>)
+                    <input type="submit" value="Aceptar" />
+                }
+            </div>*@
+    <div>
+        @using (Html.BeginForm())
+        {
+            @Html.DropDownListFor(m => m.SelectedCity, new SelectList(Model.Cities, "ID", "Nombre"))
+            <input type="submit" value="Aceptar" />
+        }
+    </div>
+</body>
+</html>
